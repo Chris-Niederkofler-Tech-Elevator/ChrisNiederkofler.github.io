@@ -1,4 +1,5 @@
-## Christopher Niederkofler
+title: Christopher Niederkofler, Future Java Professional
+description: I assure you, this site will be fully operational...
 
 You can use the [editor on GitHub](https://github.com/Chris-Niederkofler-Tech-Elevator/ChrisNiederkofler.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
